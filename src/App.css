@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300&display=swap');
+
+body{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: 'DM Sans', sans-serif;
+}
+
+h1, h2{
+  color: #3214B8;
+}
+
+.Back{
+  border: 2px solid #7B62EE;
+  margin: 10px;
+  border-radius: 15px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 18px;
+  color: #1D0C6B;
+  font-weight: 600;
+  background-color: #7B62EE;
+}
+
+.todos{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.HighFashionModel{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.RunwayModel{
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.Supermodel{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+tr{
+  display: inline-block;
+}
+
+td{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: left;
+  border: 2px solid #1D0C6B;
+  border-radius: 15px;
+  background-color: #C1B5EE;
+}
